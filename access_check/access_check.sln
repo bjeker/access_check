@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "access_check", "access_check\access_check.vcxproj", "{03D170DD-7CA7-4A05-B5E0-2056F43AF321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Debug|x64.ActiveCfg = Debug|x64
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Debug|x64.Build.0 = Debug|x64
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Debug|x86.ActiveCfg = Debug|Win32
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Debug|x86.Build.0 = Debug|Win32
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Release|x64.ActiveCfg = Release|x64
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Release|x64.Build.0 = Release|x64
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Release|x86.ActiveCfg = Release|Win32
+		{03D170DD-7CA7-4A05-B5E0-2056F43AF321}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014DF978-BDAD-4488-BF5F-AF7AB96C1A53}
+	EndGlobalSection
+EndGlobal
